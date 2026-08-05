@@ -1,0 +1,1 @@
+(Mus_musculus:0.142430989,(Miniopterus_schreibersii:0.136002712,(Hipposideros_diadema:0.110741028,Rhinolophus_arcuatus:0.120878924)0.722:0.038061418)0.981:0.064955317,(Pteropus_vampyrus:0.136674841,(Rousettus_amplexicaudatus:0.118581579,Cynopterus_brachyotis:0.122171546)0.137:0.015750754)0.803:0.032041967);
