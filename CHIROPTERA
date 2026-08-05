@@ -1,0 +1,47 @@
+# Phylogenetic Analysis of Selected Chiroptera Species Using the COI Gene
+
+## Course
+BIO 300 – Cell and Molecular Biology Laboratory
+
+## Group
+Group 4
+
+## Members
+- Jehiah Batigulao
+- Inah Marie Obiñeta
+- Francis Kyle Oficiar
+- Mark Pasculado
+- Jade Angela Suan
+
+## Taxonomic Group
+Order Chiroptera
+
+## Objective
+
+This repository documents the phylogenetic analysis of selected bat species using mitochondrial cytochrome c oxidase subunit I (COI) gene sequences retrieved from the NCBI database. The project was conducted using Galaxy for sequence alignment and phylogenetic tree construction.
+
+## Species Included
+
+- Mus musculus (Outgroup)
+- Hipposideros diadema
+- Rhinolophus arcuatus
+- Pteropus vampyrus
+- Rousettus amplexicaudatus
+- Miniopterus schreibersii
+- Cynopterus brachyotis
+
+## Software
+
+- NCBI
+- Galaxy
+- MAFFT
+- FastTree
+
+## Repository Contents
+
+- Raw FASTA sequences
+- COI alignment
+- Consensus sequence
+- Phylogenetic tree
+- Galaxy workflow
+- Final laboratory report
